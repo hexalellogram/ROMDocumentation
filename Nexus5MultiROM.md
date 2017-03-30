@@ -54,7 +54,3 @@
 52. Reboot into fastboot bootloader
 53. Flash Updated TWRP For Nougat ROM Compatibility (https://www.androidfilehost.com/?w=files&flid=102780)
 54. Reboot back into LineageOS and uninstall the both the Google Play version and the old Ubports version of MultiROM Manager. Install the new Ubports version located here: (https://forum.xda-developers.com/showpost.php?p=71471699&postcount=3668). 
-55. Dowload Magisk (https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) and flash it inside TWRP.
-56. Inject the boot sector again.
-57. Reboot back into Lineage OS and make sure that the MultiROM selection screen shows during boot.
-58. Install (or update, it might already be installed) the Magisk Manager app from the Play Store (https://play.google.com/store/apps/details?id=com.topjohnwu.magisk).
