@@ -3,7 +3,7 @@
 1. Download Nexus Factory Stock Image (https://developers.google.com/android/images#hammerhead)
 2. Reboot Nexus to fastboot with: `adb reboot booloader`
 3. Unlock bootloader: `fastboot oem unlock`
-4. Flash stock image to Nexus (cd into the directory where the stock image was unzipped to first): `./flash-all.sh`
+4. Flash stock image to Nexus (`cd` into the directory where the stock image was unzipped to first): `./flash-all.sh`
 5. Reboot into the new stock image
 6. Set up stock image (you can skip most of the configuration since we'll be wiping it soon)
 7. Enable developer options in stock image
@@ -32,8 +32,8 @@
 30. Reboot back into TWRP
 31. Tap 3 bars in corner, then Add ROM, then choose the CM-Stripped ROM and install it
 32. Reboot into the CM-Stripped ROM and give it about 5 minutes to let it boot (It will be at the Google logo)
-33. On your computer, restart adb as root: adb root
-34. Run the Plasma Mobile flashing script on your computer (make sure the Nexus is connected of course) (if needed chmod +x the script)
+33. On your computer, restart adb as root: `adb root`
+34. Run the Plasma Mobile flashing script on your computer (make sure the Nexus is connected of course) (if needed `chmod +x` the script)
 35. Once the script is finished, the Nexus will reboot and if you don't catch it in time it will boot to Lineage. If it does just reboot back into cm-stripped
 36. Test out Plasma Mobile, make sure it boots (Plasma Mobile is still in a developmental stage so a lot of stuff is broken right now)
 37. Reboot back to TWRP
