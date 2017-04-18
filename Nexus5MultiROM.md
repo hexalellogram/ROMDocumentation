@@ -62,7 +62,8 @@
 60. Once the ROM is flashed, go back "home" in TWRP and return to the MultiROM section.
 61. List the ROMs and select USB OTG as your storage. Select the CM11 ROM. 
 62. Tap "Install zip" and install the Open GApps 4.4 zip.
-63. Go back innto MultiROM settings in TWRP and inject the boot sector.
+63. Go back into MultiROM settings in TWRP and inject the boot sector.
 64. Reboot and select the CM11 ROM (It will be under the external storage tab). Set up the CM 11 ROM as necessary.
 65. Reboot back into TWRP and get into the MultiROM section
 66. Add the CyanogenMod 12 ROM, using the same image sizes as CM11: 436MB for cache, 4095MB for data, 512MB for system
+67. Flash the GApps 5.1 zip onto CM12 (see steps 60-63 for instructions, just adjust for CM12).
