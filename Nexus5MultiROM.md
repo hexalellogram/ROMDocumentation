@@ -63,4 +63,4 @@
 61. List the ROMs and select USB OTG as your storage. Select the CM11 ROM. 
 62. Tap "Install zip" and install the Open GApps 4.4 zip.
 63. Go back innto MultiROM settings in TWRP and inject the boot sector.
-64. Reboot and select the CM11 ROM (It will be under the external storage tab).
+64. Reboot and select the CM11 ROM (It will be under the external storage tab). Set up the CM 11 ROM as necessary.
