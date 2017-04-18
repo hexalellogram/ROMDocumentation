@@ -54,3 +54,8 @@
 52. Reboot into fastboot bootloader
 53. Flash Updated TWRP For Nougat ROM Compatibility (https://www.androidfilehost.com/?w=files&flid=102780)
 54. Reboot back into LineageOS and uninstall the both the Google Play version and the old Ubports version of MultiROM Manager. Install the new Ubports version located here: (https://forum.xda-developers.com/showpost.php?p=71471699&postcount=3668). 
+55. Reboot back into TWRP
+56. Add a new ROM in MultiROM Settings
+57. Select the CyanogenMod 11 .zip
+58. Set the image sizes: 436MB for cache, 4095MB for data, 512MB for system
+59. Swipe to confirm and install the ROM.
