@@ -1,16 +1,16 @@
 # Nexus 5 MultiROM Setup Documentation
 
 1. Download Nexus Factory Stock Image (https://developers.google.com/android/images#hammerhead)
-2. Reboot Nexus to fastboot with: adb reboot booloader
-3. Unlock bootloader: fastboot oem unlock
-4. Flash stock image to Nexus (cd into the directory where the stock image was unzipped to first): ./flash-all.sh
+2. Reboot Nexus to fastboot with: `adb reboot booloader`
+3. Unlock bootloader: `fastboot oem unlock`
+4. Flash stock image to Nexus (cd into the directory where the stock image was unzipped to first): `./flash-all.sh`
 5. Reboot into the new stock image
 6. Set up stock image (you can skip most of the configuration since we'll be wiping it soon)
 7. Enable developer options in stock image
 8. Enable USB debugging in developer settings and authorize your computer
 9. Reboot Nexus to fastboot with: adb reboot booloader
 10. Download modded MultiROM TWRP and modded MultiROM (https://basketbuild.com/devs/Captain_Throwback/Nexus%205/MultiROM)
-11. Install modded TWRP recovery with: fastboot flash recovery /path/to/twrp/file
+11. Install modded TWRP recovery with: `fastboot flash recovery /path/to/twrp/file`
 12. Use volume buttons to reboot to recovery
 13. Swipe to allow modifications.
 14. Download Open GApps for Android versions: 4.4, 5.1, 6.0, 7.1 (I like the Pico versions best) (http://opengapps.org)
@@ -47,7 +47,7 @@
 45. Boot Ubuntu Touch to make sure the install worked
 46. Reboot to fastboot
 47. Download MultiROM TWRP (https://forum.xda-developers.com/google-nexus-5/orig-development/mod-multirom-v24-t2571011)
-48. Flash MultiROM TWRP to Nexus: fastboot flash recovery /path/to/twrp
+48. Flash MultiROM TWRP to Nexus: `fastboot flash recovery /path/to/twrp`
 49. Boot into TWRP and add a ROM of type Sailfish OS
 50. Select the CM11 Snapshot M11 zip as the CyanogenMod zip and the Sailfish zip as the rootfs zip
 51. Boot SailfishOS to make sure it works
@@ -64,3 +64,4 @@
 62. Tap "Install zip" and install the Open GApps 4.4 zip.
 63. Go back innto MultiROM settings in TWRP and inject the boot sector.
 64. Reboot and select the CM11 ROM (It will be under the external storage tab). Set up the CM 11 ROM as necessary.
+65. Reboot back into TWRP
