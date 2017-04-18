@@ -75,5 +75,6 @@
 73. Go back to MultiROM settings in TWRP, and inject the boot sector. 
 74. Reboot the system into CyanogenMod 13 to test it out. Set it up as necessary.
 75. Reboot back into TWRP and get into the MultiROM section
-76. Add the Firefox OS ROM (https://ffos.vosky.fr), installing to internal and not USB.
-77. Reboot the system into Firefox OS to test it out. Set it up as necessary.
+76. Add the Firefox OS ROM (https://ffos.vosky.fr), installing to USB and with image sizes: 436MB for cache, 4095MB for data, 1024MB for system.
+77. Go back to MultiROM settings in TWRP, and inject the boot sector.
+78. Reboot the system into Firefox OS to test it out. Set it up as necessary.
