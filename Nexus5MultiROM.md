@@ -59,3 +59,8 @@
 57. Select the CyanogenMod 11 .zip
 58. Set the image sizes: 436MB for cache, 4095MB for data, 512MB for system
 59. Swipe to confirm and install the ROM.
+60. Once the ROM is flashed, go back "home" in TWRP and return to the MultiROM section.
+61. List the ROMs and select USB OTG as your storage. Select the CM11 ROM. 
+62. Tap "Install zip" and install the Open GApps 4.4 zip.
+63. Go back innto MultiROM settings in TWRP and inject the boot sector.
+64. Reboot and select the CM11 ROM (It will be under the external storage tab).
