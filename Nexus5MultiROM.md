@@ -65,16 +65,16 @@
 63. Go back into MultiROM settings in TWRP and inject the boot sector.
 64. Reboot and select the CM11 ROM (It will be under the external storage tab). Set up the CM 11 ROM as necessary.
 65. Reboot back into TWRP and get into the MultiROM section
-66. Add the CyanogenMod 12 ROM, using the same image sizes as CM11: 436MB for cache, 4095MB for data, 1024MB for system
+66. Add the CyanogenMod 12 ROM, installing to USB, using the same image sizes as CM11: 436MB for cache, 4095MB for data, 1024MB for system
 67. Flash the GApps 5.1 zip onto CM12 (see steps 60-63 for instructions, just adjust for CM12).
 68. Go back to MultiROM settings in TWRP, and inject the boot sector. 
 69. Reboot the system into CyanogenMod 12 to test it out. Set it up as necessary.
 70. Reboot back into TWRP and get into the MultiROM section
-71. Add the CyanogenMod 13 ROM, using the same image sizes as CM11/12: 436MB for cache, 4095MB for data, 1024MB for system (these are the same image sizes as CM11 and CM12)
+71. Add the CyanogenMod 13 ROM, installing to USB, using the same image sizes as CM11/12: 436MB for cache, 4095MB for data, 1024MB for system (these are the same image sizes as CM11 and CM12)
 72. Flash the GApps 6.0 zip onto CM13 (see steps 60-63 for instructions, just adjust for CM13).
 73. Go back to MultiROM settings in TWRP, and inject the boot sector. 
 74. Reboot the system into CyanogenMod 13 to test it out. Set it up as necessary.
 75. Reboot back into TWRP and get into the MultiROM section
-76. Add the Firefox OS ROM (https://ffos.vosky.fr), using the same image sizes as all previous ROMS: 436MB for cache, 4095MB for data, 1024MB for system
+76. Add the Firefox OS ROM (https://ffos.vosky.fr), installing to internal and not USB.
 77. Go back to MultiROM settings in TWRP, and inject the boot sector. 
 78. Reboot the system into Firefox OS to test it out. Set it up as necessary.
