@@ -8,7 +8,7 @@
 6. Set up stock image (you can skip most of the configuration since we'll be wiping it soon)
 7. Enable developer options in stock image
 8. Enable USB debugging in developer settings and authorize your computer
-9. Reboot Nexus to fastboot with: adb reboot booloader
+9. Reboot Nexus to fastboot with: `adb reboot booloader`
 10. Download modded MultiROM TWRP and modded MultiROM (https://basketbuild.com/devs/Captain_Throwback/Nexus%205/MultiROM)
 11. Install modded TWRP recovery with: `fastboot flash recovery /path/to/twrp/file`
 12. Use volume buttons to reboot to recovery
@@ -54,7 +54,7 @@
 52. Reboot into fastboot bootloader
 53. Flash Updated TWRP For Nougat ROM Compatibility (https://www.androidfilehost.com/?w=files&flid=102780)
 54. Reboot back into LineageOS and uninstall the both the Google Play version and the old Ubports version of MultiROM Manager. Install the new Ubports version located here: (https://forum.xda-developers.com/showpost.php?p=71471699&postcount=3668). 
-55. Reboot back into TWRP
+55. Reboot back into TWRP and mount USB OTG
 56. Add a new ROM in MultiROM Settings
 57. Select the CyanogenMod 11 .zip
 58. Set the image sizes: 436MB for cache, 4095MB for data, 512MB for system
@@ -64,4 +64,5 @@
 62. Tap "Install zip" and install the Open GApps 4.4 zip.
 63. Go back innto MultiROM settings in TWRP and inject the boot sector.
 64. Reboot and select the CM11 ROM (It will be under the external storage tab). Set up the CM 11 ROM as necessary.
-65. Reboot back into TWRP
+65. Reboot back into TWRP and get into the MultiROM section
+66. Add the CyanogenMod 12 ROM, using the same image sizes as CM11: 436MB for cache, 4095MB for data, 512MB for system
