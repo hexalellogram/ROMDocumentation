@@ -104,6 +104,6 @@
 79. Reboot back into TWRP and get into the MultiROM section
 80. Add another CyanogenMod 13 ROM (this one is for Kali NetHunter), installing to USB, using the same image sizes as CM11/12: 436MB for cache, 4095MB for data, 1024MB for system (these are the same image sizes as the previous CM installations)
 81. Flash the GApps 6.0 zip onto the CM13 Kali installation (see steps 60-63 for instructions, just adjust for CM13/Kali).
-82. Flash the Kali NetHunter zip (https://www.offensive-security.com/kali-linux-nethunter-download/) onto the CM13 Kali installation.
+82. Flash the Kali NetHunter zip (https://www.offensive-security.com/kali-linux-nethunter-download/) onto the CM13 Kali installation. The Kali installatio may hang on "Checking for kali Chroot in installer...this can take a while...". Let it sit for 10-20 minutes, then hold down the power button to force reboot.
 83. Go back to MultiROM settings in TWRP, and inject the boot sector. 
 84. Reboot the system into CyanogenMod 13/Kali NetHunter to test it out. Set it up as necessary.
