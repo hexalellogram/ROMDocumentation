@@ -107,3 +107,13 @@
 82. Flash the Kali NetHunter zip (https://www.offensive-security.com/kali-linux-nethunter-download/) onto the CM13 Kali installation. The Kali installatio may hang on "Checking for kali Chroot in installer...this can take a while...". Let it sit for 10-20 minutes, then hold down the power button to force reboot.
 83. Go back to MultiROM settings in TWRP, and inject the boot sector. 
 84. Reboot the system into CyanogenMod 13/Kali NetHunter to test it out. Set it up as necessary.
+
+## Uninstalling SuperSU and Installing Magisk
+85. Reboot into Lineage OS and open the SuperSU app.
+86. Go into SuperSU Settings and uncheck "Enable Superuser".
+87. Reboot back into Lineage OS and return to SuperSU Settings
+88. Select the "Full Unroot" option, *do* restore the stock boot image but *do not* restore stock recovery.
+89. Download Magisk (https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+90. Reboot into TWRP and flash the Magisk zip.
+91. Reboot into LineageOS and uninstall the Magisk Manager
+92. Install the new Magisk Manager from the Play Store.
