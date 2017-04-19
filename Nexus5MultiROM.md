@@ -120,3 +120,12 @@
 93. Reboot back into TWRP and get into MultiROM Settings for the Kali ROM.
 94. Flash the Kali NetHunter zip (https://www.offensive-security.com/kali-linux-nethunter-download/) onto the CM13 Kali installation. The Kali installation may hang on "Checking for Kali Chroot in installer...this can take a while...". Let it sit for 10-20 minutes, then hold down the power button to force reboot.
 95. Reboot the system into Kali NetHunter to test it out. The first boot may take a very long time. Set it up as necessary.
+
+## Installing NexSense (HTC Sense Port) - USB Storage
+Coming Soon!
+
+## Installing NIUI 8
+Coming Soon!
+
+## Installing AOKP (KitKat)
+Coming Soon!
