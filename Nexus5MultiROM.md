@@ -78,3 +78,9 @@
 76. Add the Firefox OS ROM (https://ffos.vosky.fr), installing to USB and with image sizes: 436MB for cache, 4095MB for data, 1024MB for system.
 77. Go back to MultiROM settings in TWRP, and inject the boot sector.
 78. Reboot the system into Firefox OS to test it out. Set it up as necessary.
+79. Reboot back into TWRP and get into the MultiROM section
+80. Add another CyanogenMod 13 ROM (this one is for Kali NetHunter), installing to USB, using the same image sizes as CM11/12: 436MB for cache, 4095MB for data, 1024MB for system (these are the same image sizes as the previous CM installations)
+81. Flash the GApps 6.0 zip onto the CM13 Kali installation (see steps 60-63 for instructions, just adjust for CM13/Kali).
+82. Flash the Kali NetHunter zip onto the CM13 Kali installation.
+83. Go back to MultiROM settings in TWRP, and inject the boot sector. 
+84. Reboot the system into CyanogenMod 13/Kali NetHunter to test it out. Set it up as necessary.
