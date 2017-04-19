@@ -96,7 +96,7 @@
 
 ## Installing Firefox OS - USB Storage
 75. Reboot back into TWRP and get into the MultiROM section
-76. Add the Firefox OS ROM (https://ffos.vosky.fr), installing to USB and with image sizes: 436MB for cache, 4095MB for data, 1024MB for system.
+76. Add the Firefox OS 2.6 ROM (https://ffos.vosky.fr), installing to USB and with image sizes: 436MB for cache, 4095MB for data, 1024MB for system.
 77. Go back to MultiROM settings in TWRP, and inject the boot sector.
 78. Reboot the system into Firefox OS to test it out. Set it up as necessary.
 
