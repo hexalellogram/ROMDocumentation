@@ -124,8 +124,8 @@
 ## Installing NexSense (HTC Sense Port) - USB Storage
 Coming Soon!
 
-## Installing NIUI 8
+## Installing MIUI 8 - USB Storage
 Coming Soon!
 
-## Installing AOKP (KitKat)
+## Installing AOKP (KitKat) - USB Storage
 Coming Soon!
