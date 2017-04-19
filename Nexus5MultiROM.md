@@ -104,7 +104,7 @@
 79. Reboot back into TWRP and get into the MultiROM section
 80. Add another CyanogenMod 13 ROM (this one is for Kali NetHunter), installing to USB, using the same image sizes as CM11/12: 436MB for cache, 4095MB for data, 1024MB for system (these are the same image sizes as the previous CM installations)
 81. Flash the GApps 6.0 zip onto the CM13 Kali installation (see steps 60-63 for instructions, just adjust for CM13/Kali).
-82. Flash the Kali NetHunter zip (https://www.offensive-security.com/kali-linux-nethunter-download/) onto the CM13 Kali installation. The Kali installatio may hang on "Checking for kali Chroot in installer...this can take a while...". Let it sit for 10-20 minutes, then hold down the power button to force reboot.
+82. Flash the Kali NetHunter zip (https://www.offensive-security.com/kali-linux-nethunter-download/) onto the CM13 Kali installation. The Kali installatio may hang on "Checking for Kali Chroot in installer...this can take a while...". Let it sit for 10-20 minutes, then hold down the power button to force reboot.
 83. Go back to MultiROM settings in TWRP, and inject the boot sector. 
 84. Reboot the system into CyanogenMod 13/Kali NetHunter to test it out. Set it up as necessary.
 
@@ -115,5 +115,6 @@
 88. Select the "Full Unroot" option, *do* restore the stock boot image but *do not* restore stock recovery.
 89. Download Magisk (https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 90. Reboot into TWRP and flash the Magisk zip.
-91. Reboot into LineageOS and uninstall the Magisk Manager
-92. Install the new Magisk Manager from the Play Store.
+91. Inject the current boot sector.
+92. Reboot into LineageOS and uninstall the Magisk Manager
+93. Install the new Magisk Manager from the Play Store.
