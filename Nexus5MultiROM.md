@@ -111,21 +111,18 @@
 86. Reboot into LineageOS and uninstall the Magisk Manager
 87. Update to the new Magisk Manager from the Play Store.
 
-## Installing Kali NetHunter - USB Storage
-88. Reboot back into TWRP and get into the MultiROM section
-89. Add another CyanogenMod 13 ROM (this one is for Kali NetHunter), installing to USB, using ***different*** image sizes as CM11/12: 436MB for cache, 4095MB for data, 4095MB for system
-90. Flash the GApps 6.0 zip onto the CM13 Kali installation (see steps 60-63 for instructions, just adjust for CM13/Kali).
-91. Go back to MultiROM settings in TWRP, and inject the boot sector. 
-92. Boot into the CM 13 ROM (there will not be any Kali stuff on it yet) and go through the setup.
-93. Reboot back into TWRP and get into MultiROM Settings for the Kali ROM.
-94. Flash the Kali NetHunter zip (https://www.offensive-security.com/kali-linux-nethunter-download/) onto the CM13 Kali installation. The Kali installation may hang on "Checking for Kali Chroot in installer...this can take a while...". Let it sit for 10-20 minutes, then hold down the power button to force reboot.
-95. Reboot the system into Kali NetHunter to test it out. The first boot may take a very long time. Set it up as necessary.
-
 ## Installing NexSense (HTC Sense Port) - USB Storage
-Coming Soon!
+88. Download NexSense ROM zip (https://forum.xda-developers.com/google-nexus-5/development/port-nexsense-sense-6-0-wifi-fix-m8-t2703397) and NexSense ROM Patches zip (same link).
+89. Add an Android ROM and choose NexSense_ALPHA-GalaxyUser.zip, using the USB storage.
+90. Use the same image sizes as CM11/12: 436MB for cache, 4095MB for data, 1024MB for system
+89. Navigate to the new ROM's settings and flash the NexSense_Path-GalaxyUser.zip file.
+90. Boot into Sense and set it up
 
 ## Installing MIUI 8 - USB Storage
 Coming Soon!
 
 ## Installing AOKP (KitKat) - USB Storage
 Coming Soon!
+
+## Installing Kali NetHunter - USB Storage
+Coming soon!
