@@ -112,8 +112,6 @@
 87. Update to the new Magisk Manager from the Play Store.
 
 ## Installing Kali NetHunter - USB Storage
-***So far this procedure is untested***
-
 88. Reboot back into TWRP and get into the MultiROM section
 89. Add another CyanogenMod 13 ROM (this one is for Kali NetHunter), installing to USB, using ***different*** image sizes as CM11/12: 436MB for cache, 4095MB for data, 4095MB for system
 90. Flash the GApps 6.0 zip onto the CM13 Kali installation (see steps 60-63 for instructions, just adjust for CM13/Kali).
