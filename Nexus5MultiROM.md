@@ -116,10 +116,13 @@
 89. Add an Android ROM and choose NexSense_ALPHA-GalaxyUser.zip, using the USB storage.
 90. Use the same image sizes as CM11/12: 436MB for cache, 4095MB for data, 1024MB for system
 89. Navigate to the new ROM's settings and flash the NexSense_Path-GalaxyUser.zip file.
-90. Boot into Sense and set it up
+90. Boot into Sense and set it up as necessary.
 
 ## Installing MIUI 8 - USB Storage
-Coming Soon!
+91. Download MIUI 8 ROM (https://forum.xda-developers.com/google-nexus-5/development/rom-miui-8-6-3-30-t3409440).
+92. Reboot into TWRP and add a new Android ROM, installing to USB. Use the image sizes: 436MB for cache, 4095MB for data, 2048MB for system.
+93. Go back to MultiROM settings in TWRP, and inject the boot sector. 
+94. Boot into MIUI and set it up as necessary.
 
 ## Installing AOKP (KitKat) - USB Storage
 Coming Soon!
