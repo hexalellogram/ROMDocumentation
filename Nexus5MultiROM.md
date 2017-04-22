@@ -124,12 +124,5 @@
 93. Go back to MultiROM settings in TWRP, and inject the boot sector. 
 94. Boot into MIUI and set it up as necessary.
 
-## Installing AOKP (KitKat) - USB Storage
-95. Reboot back into TWRP and get into the MultiROM section
-96. Download and add the AOKP 4.4 ROM (https://s.basketbuild.com/devs/aokp/hammerhead) (don' use the 2014-10-18 nightly and be sure to download a KitKat one), installing to USB, using the same image sizes as CM11/12: 436MB for cache, 4095MB for data, 1024MB for system 
-97. Flash the GApps 4.40 zip onto the AOKP ROM (see steps 60-63 for instructions, just adjust for 4.4).
-98. Go back to MultiROM settings in TWRP, and inject the boot sector. 
-99. Reboot the system into AOKP to test it out. Set it up as necessary.
-
 ## Installing Kali NetHunter - USB Storage
 Coming soon!
