@@ -124,10 +124,9 @@
 93. Go back to MultiROM settings in TWRP, and inject the boot sector. 
 94. Boot into MIUI and set it up as necessary.
 
-## Installing Kali NetHunter - USB Storage
+## Installing Kali NetHunter - Internal Storage
 91. Download Kali NetHunter (https://www.offensive-security.com/kali-linux-nethunter-download/).
-92. Add a new CyanogenMod 13 ROM installed to USB. Use image sizes 436MB for cache, 4095MB for data, 4095MB for system.
-93. Flash GApps 6.0 onto the new ROM.
-94. In MultiROM TWRP, nject the boot sector.
+92. Add a new CyanogenMod 13 ROM installed to internal storage
+94. In MultiROM TWRP, inject the boot sector.
 95. Boot into the new CM13 ROM to set it up to a base state (there will not be any Kali stuff on it yet).
 96. Reboot back into TWRP and flash the NetHunter zip to the CM13 ROM. The istallation may freeze on "Checking for Kali Chroot in installer...this can take a while". Make sure that there is no graphical movement on screen (the Aroma progress bar for the installer will normally show some slight activity and pulse with light) and that at least 10-20 minutes have elapsed since the freeze, and force reboot.
