@@ -130,4 +130,6 @@
 93. Flash OpenGApps 6.0 to this ROM
 94. Flash SuperSU (https://download.chainfire.eu/1021/SuperSU/SR3-SuperSU-v2.79-SR3-20170114223742.zip) to this ROM.
 95. Boot into the new ROM to set it up to a base state (there will not be any Kali stuff on it yet).
-96. Reboot back into TWRP and flash the NetHunter zip onto the new ROM. The istallation may freeze on "Checking for Kali Chroot in installer...this can take a while". Make sure that there is no graphical movement on screen (the Aroma progress bar for the installer will normally show some slight activity and pulse with light) and that at least 10-20 minutes have elapsed since the freeze, and force reboot.
+96. Reboot back into TWRP and flash the NetHunter zip onto the new ROM.
+97. The installation may graphically freeze at any point and it will look as if no progress is being made. Make sure that there is no graphical movement on screen (the Aroma progress bar for the installer will normally show some slight activity and pulse with light) and that at least 10-20 minutes have elapsed since the freeze, and force reboot.
+98. Boot into NetHunter and set it up as necessary.
