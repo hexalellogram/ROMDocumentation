@@ -129,6 +129,5 @@
 92. Add a new CyanogenMod 13 ROM installed to internal storage
 93. Flash OpenGApps 6.0 to this ROM
 94. Flash Magisk to this ROM.
-93. Boot into the new ROM to set it up to a base state (there will not be any Kali stuff on it yet).
-94. Reboot back into TWRP.
-95. Flash the NetHunter zip onto the new ROM. The istallation may freeze on "Checking for Kali Chroot in installer...this can take a while". Make sure that there is no graphical movement on screen (the Aroma progress bar for the installer will normally show some slight activity and pulse with light) and that at least 10-20 minutes have elapsed since the freeze, and force reboot.
+95. Boot into the new ROM to set it up to a base state (there will not be any Kali stuff on it yet).
+96. Reboot back into TWRP and flash the NetHunter zip onto the new ROM. The istallation may freeze on "Checking for Kali Chroot in installer...this can take a while". Make sure that there is no graphical movement on screen (the Aroma progress bar for the installer will normally show some slight activity and pulse with light) and that at least 10-20 minutes have elapsed since the freeze, and force reboot.
