@@ -133,3 +133,6 @@
 96. Reboot back into TWRP and flash the NetHunter zip onto the new ROM.
 97. The installation may graphically freeze at any point and it will look as if no progress is being made. Make sure that there is no graphical movement on screen (the Aroma progress bar for the installer will normally show some slight activity and pulse with light) and that at least 10-20 minutes have elapsed since the freeze, and force reboot.
 98. Boot into NetHunter and set it up as necessary.
+
+## Installing PureNexus Nougat - USB Storage
+Coming Soon!
