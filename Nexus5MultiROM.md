@@ -124,7 +124,7 @@
 93. Go back to MultiROM settings in TWRP, and inject the boot sector. 
 94. Boot into MIUI and set it up as necessary.
 
-## Installing Kali NetHunter - Internal Storage
+## Installing Kali NetHunter Marshmallow - Internal Storage
 91. Download Kali NetHunter (https://www.offensive-security.com/kali-linux-nethunter-download/).
 92. Add a new CyanogenMod 13 ROM installed to internal storage
 93. Flash OpenGApps 6.0 to this ROM
