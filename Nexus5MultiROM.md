@@ -149,5 +149,6 @@
 ## Installing Flyme 6 - USB Storage
 1. Reboot back into TWRP and get into the MultiROM section.
 1. Download Flyme 6 (https://forum.xda-developers.com/google-nexus-5/general/flyme-6-nexus-5-t3658772) and transfer it to the Nexus
-1. Add the Flyme 6 ROM, installing to USB, using these image sizes: 436MB for cache, 4095MB for data, 1024MB for system (these are the same image sizes as CM11/12/13)
+1. Add the Flyme 6 ROM, installing to USB, using these image sizes: 436MB for cache, 4095MB for data, 1024MB for system (these are the same image sizes as CM11/12/13).
+1. Go back to MultiROM settings in TWRP, and inject the boot sector.
 1. Reboot the system into Flyme 6 to test it out. Set it up as necessary.
