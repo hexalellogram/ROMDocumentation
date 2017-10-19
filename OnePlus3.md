@@ -68,3 +68,4 @@
 ## Resources
 - [Latest Version of MR TWRP (8/7/17)](https://forum.xda-developers.com/showpost.php?p=73316166&postcount=1950)
 - [Decrypting the OP3](https://forum.xda-developers.com/oneplus-3/how-to/unencrypt-oxygenos-loosing-data-t3412228)
+- [Default OP3 Encryption Password](https://forum.xda-developers.com/oneplus-3/help/removing-encryption-t3422581) is default_password apparrently?
