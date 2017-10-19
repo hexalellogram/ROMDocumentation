@@ -32,7 +32,7 @@
 1. Swipe to allow modifications. Now you are in TWRP.
 
 ## Installing Custom ElementalX Kernel
-1. Download [ElementalX for the OnePlus 3](https://elementalx.org/devices/oneplus-3/). The latest version as of this writing is 3.09. 
+1. Download [ElementalX for the OnePlus 3](https://elementalx.org/devices/oneplus-3/). Use the Oxygen OS version. The latest version as of this writing is 3.09. 
 1. Copy this to the device using Android File Transfer.
 1. Install this in TWRP but do not inject MultiROM after installation.
 1. Go through the ElementalX installation procedure (I leave my settings stock except for enabling double tap to wake and disabling sweep to sleep)
