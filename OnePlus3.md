@@ -32,14 +32,14 @@
 1. Swipe to allow modifications. Now you are in TWRP.
 
 ## Installing Custom ElementalX Kernel
-1. Download [ElementalX for the OnePlus 3](https://elementalx.org/devices/oneplus-3/)
+1. Download [ElementalX for the OnePlus 3](https://elementalx.org/devices/oneplus-3/). The latest version as of this writing is 3.09. 
 1. Copy this to the device using Android File Transfer.
 1. Install this in TWRP but do not inject MultiROM after installation.
 1. Go through the ElementalX installation procedure (I leave my settings stock except for enabling double tap to wake and disabling sweep to sleep)
 1. Reboot to system but do not install the TWRP app. We use a custom version of TWRP so it is kind of useless. The standard version of TWRP doesn't have MultiROM capability. If you would like there is an option in TWRP settings to disable prompting to install the TWRP app.
 
 ## Installing Magisk [WIP]
-
+1. Download [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445). The latest version as of this writing is 14.0.
 
 ## Installing MultiROM [WIP]
 
