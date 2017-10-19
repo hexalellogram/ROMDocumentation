@@ -40,6 +40,9 @@
 
 ## Installing Magisk [WIP]
 1. Download [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445). The latest version as of this writing is 14.0.
+1. Copy this to the device using Android File Transfer.
+1. Install this in TWRP but do not inject MultiROM after installation.
+1. Reboot back to system.
 
 ## Installing MultiROM [WIP]
 
