@@ -11,7 +11,7 @@
 
 
 ## Resetting OnePlus 3 to Stock State
-1. Download latest version of Oxygen OS from [OnePlus](http://downloads.oneplus.net/) (as of this writing it's 4.1.7)
+1. Download latest version of Oxygen OS from [OnePlus](http://downloads.oneplus.net/) (as of this writing it's 4.5.1)
 1. Reboot into recovery by holding power and volume down as the phone boots.
 1. Choose the "Install from USB" option in OnePlus Recovery
 1. Run the following in terminal on your computer: `adb sideload /path/to/OxygenOS/zip`
