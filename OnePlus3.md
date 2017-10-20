@@ -36,7 +36,7 @@
 1. Reboot into TWRP recovery using the method of your choice.
 1. Wipe the partitions (advanced wipe) and select cache, system, and data.
 1. Install the .zip in TWRP. Don't inject MultiROM and do not reboot afterwards.
-1. Download [Open GApps](http://opengapps.org/) (I use Pico, and the Platform should be ARM64) and copy to the device. Current version as of this writing is 2017-10-19.
+1. Download [Open GApps](http://opengapps.org/) (I use Pico, the Android version should be 7.1, the Platform should be ARM64) and copy to the device. Current version as of this writing is 2017-10-19.
 1. Install GApps in TWRP.
 1. Reboot the system.
 
