@@ -59,11 +59,10 @@
 ## Installing LineageOS 15 [WIP]
 
 
-## Installing LineageOS 14.1 [WIP]
-
-
 ## Installing CyanogenMod 13 [WIP]
 
+
+## Install Oxygen OS [WIP]
 
 ## Installing Kali NetHunter [WIP]
 
