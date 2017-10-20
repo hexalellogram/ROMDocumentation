@@ -1,10 +1,10 @@
 # OnePlus 3 MultiROM Setup Documentation
 
 ## Proposed Configuration
-- Oxygen OS (base OS)
+- LineageOS 14.1 (base OS)
 - LineageOS 15 
-- LineageOS 14.1
 - CyanogenMod 13
+- Oxygen OS
 - Kali NetHunter (maybe)
 - MIUI 8
 - Flyme 6
