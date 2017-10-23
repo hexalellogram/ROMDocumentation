@@ -1,7 +1,7 @@
 # OnePlus 3 MultiROM Setup Documentation
 
 ## Proposed Configuration
-- Lineage OS 14.1 (base OS)
+- Sultan Lineage OS 14.1 (base OS)
 - Lineage OS 15 
 - CyanogenMod 13
 - Oxygen OS
@@ -31,21 +31,14 @@
 1. Use the volume buttons on the OP3 to reboot back into TWRP
 1. Swipe to allow modifications. Now you are in TWRP.
 
-## Installing Lineage OS 14.1
-1. Download [Lineage OS 14.1](https://download.lineageos.org/oneplus3). Latest version as of this writing is 2017-10-19. Copy to the OP3 using Android File Transfer.
+## Installing Sultan Lineage OS 14.1
+1. Download [Sultan Lineage OS 14.1](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/op3-op3t-unofficial-lineageos-14-1-t3588696). Latest version as of this writing is 2017-10-22. Copy to the OP3 using Android File Transfer.
 1. Reboot into TWRP recovery using the method of your choice.
 1. Wipe the partitions (advanced wipe) and select cache, system, and data.
 1. Install the .zip in TWRP. Don't inject MultiROM and do not reboot afterwards.
-1. Download [Open GApps](http://opengapps.org/) (I use Pico, the Android version should be 7.1, the Platform should be ARM64) and copy to the device. Current version as of this writing is 2017-10-19.
+1. Download [Open GApps](http://opengapps.org/) (I use Micro, the Android version should be 7.1, the Platform should be ARM64) and copy to the device. Current version as of this writing is 2017-10-22.
 1. Install GApps in TWRP.
-1. Reboot the system.
-
-## Installing Custom ElementalX Kernel
-1. Download [ElementalX for the OnePlus 3](https://elementalx.org/devices/oneplus-3/). Use the Lineage OS version. The latest version as of this writing is 3.17. 
-1. Copy this to the device using Android File Transfer.
-1. Install this in TWRP but do not inject MultiROM after installation.
-1. Go through the ElementalX installation procedure (I leave my settings stock except for enabling double tap to wake and disabling sweep to sleep)
-1. Reboot to system but do not install the TWRP app. We use a custom version of TWRP so it is kind of useless. The standard version of TWRP doesn't have MultiROM capability. If you would like there is an option in TWRP settings to disable prompting to install the TWRP app.
+1. Proceed to **Installing Magisk** if you want root access, otherwise reboot the system.
 
 ## Installing Magisk
 1. Download [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445). The latest version as of this writing is 14.0.
@@ -63,6 +56,7 @@
 
 
 ## Install Oxygen OS [WIP]
+
 
 ## Installing Kali NetHunter [WIP]
 
