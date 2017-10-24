@@ -58,14 +58,14 @@
 ## Installing LineageOS 15 [WIP]
 
 
-## Installing CyanogenMod 13
-**WARNING THESE INSTRUCTIONS MIGHT HAVE BRICKED MY PHONE, PROCEED WITH EXTREME CAUTION**
-~~1. Download CyanogenMod 13 from [this archive](https://archive.org/download/cmarchive_snapshots). Ensure you select the one labeled `oneplus3`. The filename should be `cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J6-oneplus3`. 
+## Installing CyanogenMod 13 [WIP]
+**WARNING THESE INSTRUCTIONS MIGHT HAVE BRICKED MY PHONE, PROCEED WITH EXTREME CAUTION OR DO NOT PROCEED AT ALL**
+1. Download CyanogenMod 13 from [this archive](https://archive.org/download/cmarchive_snapshots). Ensure you select the one labeled `oneplus3`. The filename should be `cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J6-oneplus3`. 
 1. Copy this to the device and rebhoot into TWRP.
 1. In MultiROM settings (3 bars, upper right hand corner) tap Add ROM. The type of the ROM should be Android, you should install it to Internal Storage, and the ROM source (you'll need to tap Next for this one) is a ZIP file. Choose the CM13 zip file and swipe to install. Do not reboot the device and instead return to MultiROM Settings. 
 1. Download [Open GApps](http://opengapps.org/) (I used Pico to save space, the Android version should be 6.0, the Platform should be ARM64) and copy to the device. When I did this the latest version was 2017-10-22.
 1. Tap List ROMs and select the CM13 ROM you just installed. Tap Install ZIP and select the OpenGApps 6.0 zip. Swipe to flash.
-1. Reboot the system, and you can set up the CM13 ROM if you would like.~~
+1. Reboot the system, and you can set up the CM13 ROM if you would like.
 
 ## Install Oxygen OS [WIP]
 
