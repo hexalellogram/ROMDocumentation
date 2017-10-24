@@ -46,7 +46,7 @@
 1. Install this in TWRP but do not inject MultiROM after installation.
 1. Reboot back to system.
 
-## Installing MultiROM [WIP]
+## Installing MultiROM
 1. In Security Settings, ensure your device is unencrypted.
 1. Download the latest version of [MultiROM for the OnePlus 3](https://forum.xda-developers.com/showpost.php?p=73316166&postcount=1950). When I did this the latest version was 2017-08-07. Copy it to the device and reboot into TWRP.
 1. Install the .zip in TWRP. Do not inject MultiROM after installation.
@@ -58,7 +58,7 @@
 ## Installing LineageOS 15 [WIP]
 
 
-## Installing CyanogenMod 13 [WIP]
+## Installing CyanogenMod 13
 1. Download CyanogenMod 13 from [this archive](https://archive.org/download/cmarchive_snapshots). Ensure you select the one labeled `oneplus3`. The filename should be `cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J6-oneplus3`. 
 1. Copy this to the device and rebhoot into TWRP.
 1. In MultiROM settings (3 bars, upper right hand corner) tap Add ROM. The type of the ROM should be Android, you should install it to Internal Storage, and the ROM source (you'll need to tap Next for this one) is a ZIP file. Choose the CM13 zip file and swipe to install. Do not reboot the device and instead return to MultiROM Settings. 
