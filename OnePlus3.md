@@ -38,7 +38,7 @@
 1. Install the .zip in TWRP. Don't inject MultiROM and do not reboot afterwards.
 1. Download [Open GApps](http://opengapps.org/) (I use Micro, the Android version should be 7.1, the Platform should be ARM64) and copy to the device. Current version as of this writing is 2017-10-22.
 1. Install GApps in TWRP.
-1. Proceed to **Installing Magisk** if you want root access, otherwise reboot the system.
+1. Proceed to **Installing Magisk** since we need root access for MultiROM Manager.
 
 ## Installing Magisk
 1. Download [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445). The latest version as of this writing is 14.0.
@@ -53,6 +53,7 @@
 1. Inject the boot sector.
 1. Go to MultiROM TWRP Settings and ensure that "Enable no-KEXEC workaround" is checked.
 1. Reboot to system.
+1. Install the [modded MultiROM Manager](https://androidfilehost.com/?fid=457095661767155476). Check [this post](https://forum.xda-developers.com/showpost.php?p=67685852&postcount=2) to make sure it is the latest version.
 
 ## Installing LineageOS 15 [WIP]
 
