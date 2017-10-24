@@ -59,6 +59,7 @@
 
 
 ## Installing CyanogenMod 13
+**WARNING THESE INSTRUCTIONS MIGHT HAVE BRICKED MY PHONE, PROCEED WITH EXTREME CAUTION**
 1. Download CyanogenMod 13 from [this archive](https://archive.org/download/cmarchive_snapshots). Ensure you select the one labeled `oneplus3`. The filename should be `cm-13.0-20160820-SNAPSHOT-ZNH5YAO0J6-oneplus3`. 
 1. Copy this to the device and rebhoot into TWRP.
 1. In MultiROM settings (3 bars, upper right hand corner) tap Add ROM. The type of the ROM should be Android, you should install it to Internal Storage, and the ROM source (you'll need to tap Next for this one) is a ZIP file. Choose the CM13 zip file and swipe to install. Do not reboot the device and instead return to MultiROM Settings. 
