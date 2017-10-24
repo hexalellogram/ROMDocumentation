@@ -19,7 +19,7 @@
 
 ## Installing MultiROM TWRP
 1. On the OnePlus 3, reboot into fastboot (I enable advanced reboot in developer settings and use that, but you can use `adb reboot bootloader` if you so choose)
-1. Download [MultiROM TWRP](https://forum.xda-developers.com/showpost.php?p=73316166&postcount=1950). When I did this the latest version owas 08/07/17.
+1. Download [MultiROM TWRP](https://forum.xda-developers.com/showpost.php?p=73316166&postcount=1950). When I did this the latest version was 08/07/17.
 1. On your computer with the OP3 plugged in run the command: `fastboot oem unlock`. **WARNING THIS WILL WIPE ALL DATA ON THE DEVICE.** Use the volume buttons to select yes and then the power button to confirm.
 1. Once the phone displays the boot selection menu press the volume keys to cancel automatic boot and access the Boot Options Menu. Boot into Fastboot again.
 1. On your computer: `fastboot flash recovery /path/to/twrp/img`
