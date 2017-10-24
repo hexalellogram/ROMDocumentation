@@ -47,7 +47,12 @@
 1. Reboot back to system.
 
 ## Installing MultiROM [WIP]
-
+1. In Security Settings, ensure your device is unencrypted.
+1. Download the latest version of [MultiROM for the OnePlus 3](https://forum.xda-developers.com/showpost.php?p=73316166&postcount=1950). The latest version as of this writing is 2017-08-07. Copy it to the device and reboot into TWRP.
+1. Install the .zip in TWRP. Do not inject MultiROM after installation.
+1. Inject the boot sector.
+1. Go to MultiROM TWRP Settings and ensure that "Enable no-KEXEC workaround" is checked.
+1. Reboot to system.
 
 ## Installing LineageOS 15 [WIP]
 
