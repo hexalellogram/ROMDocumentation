@@ -53,7 +53,7 @@
 1. Inject the boot sector.
 1. Go to MultiROM TWRP Settings and ensure that "Enable no-KEXEC workaround" is checked.
 1. Reboot to system.
-1. Install the [modded MultiROM Manager](https://androidfilehost.com/?fid=457095661767155476). Check [this post](https://forum.xda-developers.com/showpost.php?p=67685852&postcount=2) to make sure it is the latest version.
+1. Install the [modded MultiROM Manager](https://androidfilehost.com/?fid=457095661767155476). Check [this post](https://forum.xda-developers.com/showpost.php?p=67685852&postcount=2) to make sure it is the latest version. The latest version as of this writing is 2017-04-21
 
 ## Installing LineageOS 15 [WIP]
 
