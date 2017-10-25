@@ -9,6 +9,7 @@
 - MIUI 8
 - Flyme 6
 
+### A note before proceeding: Make plenty of Nandroid backups, and OFTEN! Any of these steps could be the catalyst for a total reset and you're thrown back to step 1.
 
 ## Resetting OnePlus 3 to Stock State
 1. Download latest version of Oxygen OS from [OnePlus](http://downloads.oneplus.net/) (when I did this it was 4.5.1)
