@@ -1,7 +1,7 @@
 # OnePlus 3 MultiROM Setup Documentation
 
 ## Proposed Configuration
-- Sultan Lineage OS 14.1 (base OS)
+- Lineage OS 14.1 (base OS)
 - Lineage OS 15 
 - CyanogenMod 13
 - Oxygen OS
@@ -32,12 +32,12 @@
 1. Use the volume buttons on the OP3 to reboot back into TWRP
 1. Swipe to allow modifications. Now you are in TWRP.
 
-## Installing Sultan Lineage OS 14.1
-1. Download [Sultan Lineage OS 14.1](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/op3-op3t-unofficial-lineageos-14-1-t3588696). When I did this the latest version was 2017-10-22. Copy to the OP3 using Android File Transfer.
+## Installing Lineage OS 14.1
+1. Download [Lineage OS 14.1](https://download.lineageos.org/oneplus3). When I did this the latest version was 2017-10-19. Copy to the OP3 using Android File Transfer.
 1. Reboot into TWRP recovery using the method of your choice.
 1. Wipe the partitions (advanced wipe) and select cache, system, and data.
 1. Install the .zip in TWRP. Don't inject MultiROM and do not reboot afterwards.
-1. Download [Open GApps](http://opengapps.org/) (I used Micro, the Android version should be 7.1, the Platform should be ARM64) and copy to the device. When I did this the latest version was 2017-10-22.
+1. Download [Open GApps](http://opengapps.org/) (I used Stock, the Android version should be 7.1, the Platform should be ARM64) and copy to the device. When I did this the latest version was 2017-10-25.
 1. Install GApps in TWRP.
 1. Proceed to **Installing Magisk** since we need root access for MultiROM Manager.
 
