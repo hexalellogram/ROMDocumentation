@@ -8,6 +8,7 @@
 - Kali NetHunter (maybe)
 - MIUI 8
 - Flyme 6
+- Kernel: ElementalX
 
 ### A note before proceeding: Make plenty of Nandroid backups, and OFTEN! Any of these steps could be the catalyst for a total reset and you're thrown back to step 1.
 
@@ -46,6 +47,9 @@
 1. Copy this to the device using Android File Transfer.
 1. Install this in TWRP but do not inject MultiROM after installation.
 1. Reboot back to system.
+
+## Installing ElementalX Kernel [WIP]
+
 
 ## Installing MultiROM
 1. In Security Settings, ensure your device is unencrypted.
