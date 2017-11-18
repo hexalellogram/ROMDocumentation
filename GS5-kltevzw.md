@@ -4,33 +4,34 @@ Note: While this is designed for the Verizon varient, many parts can also be use
 ## Root (kltevzw)
 Root can be achieved via different methods depending on what build you are on.
 
-| Android base | Build | Method                                  |
-|:------------ |:----- |:---------------------------------------:|
-| KitKat       | `NCG` | [TowelRoot](#towelroot)                 |
-| KitKat       | `NE9` | [KitKat Root](#kitkat-root-kltevzw)     |
-| KitKat       | `NHA` | [KitKat Root](#kitkat-root-kltevzw)     |
-| KitKat       | `NI2` | [KitKat Root](#kitkat-root-kltevzw)     |
-| KitKat       | `NK2` | [KitKat Root](#kitkat-root-kltevzw)     |
-| Lollipop     | `OA8` | Not Possible!                           |
-| Lollipop     | `OC2` | Not Possible!                           |
-| Lollipop     | `OD5` | Not Possible!                           |
-| Lollipop     | `OE1` | [Lollipop Root](#lollipop-root-kltevzw) |
-| Lollipop     | `OK3` | [Lollipop Root](#lollipop-root-kltevzw) |
-| Lollipop     | `OG5` | [Lollipop Root](#lollipop-root-kltevzw) |
-| Lollipop     | `PB1` | [Lollipop Root](#lollipop-root-kltevzw) |
-| Marshmallow  | `PF4` |        |
-| Marshmallow  | `PG2` |        |
-| Marshmallow  | `PJ2` |        |
-| Marshmallow  | `PF4` |        |
-| Marshmallow  | `PL1` |        |
-| Marshmallow  | `QA1` |        |
-| Marshmallow  | `PL1` |        |
-| Marshmallow  | `QB2` |        |
-| Marshmallow  | `PL1` |        |
-| Marshmallow  | `QC2` |        |
-| Marshmallow  | `PL1` |        |
-| Marshmallow  | `QD1` |        |
-| Marshmallow  | `PL1` |        |
+| Android base | Build | Method                                        |
+|:------------ |:----- |:---------------------------------------------:|
+| KitKat       | `NCG` | [TowelRoot](#towelroot)                       |
+| KitKat       | `NE9` | [KitKat Root](#kitkat-root-kltevzw)           |
+| KitKat       | `NHA` | [KitKat Root](#kitkat-root-kltevzw)           |
+| KitKat       | `NI2` | [KitKat Root](#kitkat-root-kltevzw)           |
+| KitKat       | `NK2` | [KitKat Root](#kitkat-root-kltevzw)           |
+| Lollipop     | `OA8` | Not Possible!                                 |
+| Lollipop     | `OC2` | Not Possible!                                 |
+| Lollipop     | `OD5` | Not Possible!                                 |
+| Lollipop     | `OE1` | [Lollipop Root](#lollipop-root-kltevzw)       |
+| Lollipop     | `OK3` | [Lollipop Root](#lollipop-root-kltevzw)       |
+| Lollipop     | `OG5` | [Lollipop Root](#lollipop-root-kltevzw)       |
+| Lollipop     | `PB1` | [Lollipop Root](#lollipop-root-kltevzw)       |
+| Marshmallow  | `PD1` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `PF4` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `PG2` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `PJ2` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `PF4` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `PL1` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `QA1` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `PL1` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `QB2` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `PL1` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `QC2` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `PL1` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `QD1` | [Marshmallow Root](#marshmallow-root-kltevzw) |
+| Marshmallow  | `PL1` | [Marshmallow Root](#marshmallow-root-kltevzw) |
 
 ### TowelRoot
 kltevzw: Only works on `NCG`
@@ -70,4 +71,49 @@ Note that this is not recommended! The preferred way is to use the [Marshmallow 
 1. If it succeeds, continue, otherwise pull the battery, remove the USB cable, reinsert the battery, hold the power button until the phone vibrates, then re-run `3 - Root Process.bat`
 1. Run `4 - Flash PB1.bat` or reboot to download mode
 1. Flash the kernel with the build for your ROM, as noted in step 1.
+
+### Marshmallow Root (kltevzw)
+This is the recommended root method. 
+
+1. Download [This app](https://androidfilehost.com/?fid=673368273298935345) and install
+1. Note the first 2 numbers in the eMMC box, under CID
+
+| eMMC CID | Root Method                    |
+|:-------- |:------------------------------:|
+| 15       | [Root and bootloader unlock]() |
+| 11       | [Root only]()                  |
+| Other    | Not possible!                  |
+
+
+## Bootloader unlock (kltevzw)
+
+The bootloader can be unlocked if you have a Samsung eMMC. Some phones have a Toshiba eMMC and some have a Samsung eMMC. There are two ways to identify which eMMC your phone has.
+
+Option 1:
+1. Download [This app](https://androidfilehost.com/?fid=673368273298935345) and install
+1. Note the first 2 numbers in the eMMC box, under CID
+
+Option 2:
+1. Open this file using ADB or a file explorer: `/sys/block/mmcblk0/device/cid`
+1. Read the first 2 numbers
+
+If you have the first 2 numbers with "11", you can't unlock the bootloader.
+
+If you have the first 2 numbers with "15", wonderful! We can continue with the unlock process.
+
+In order to unlock the bootloader, your phone MUST be rooted! If you are already on Marshmallow, go back to the root section and root your phone. This will automatically unlock your bootloader. If you are not on Marshmallow, you can either update to Marshmallow (OTA) or root your phone using the previous methods. The easiest is to take the Marshmallow OTA since rooting Marshmallow and unlocking the bootloader simeltaneiously is easier than the other methods.
+
+NOTE: IF YOU ARE ROOTED ON LOLLIPOP ON ONE OF THE FOLLOWING BUILDS, YOU ARE IN LUCK!!!
+- `OE1`
+- `OK3`
+- `PB1`
+
+1. Download [this](https://androidfilehost.com/?fid=24459283995314681)
+1. Install flashfire or safestrap
+1. Flash the downloaded file using safestrap or flashfire
+1. Run the "SamsungUnlocker" app
+1. Grant SuperSU access
+1. Type "yes" in the terminal when the prompt appears
+1. After the phone turns off, boot the device to bootloader and verify that the status shows as "Developer"
+1. Flash TWRP using Odin
 
