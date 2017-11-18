@@ -6,12 +6,12 @@ Root can be achieved via different methods depending on what build you are on.
 
 | Android base | Build | Method                              |
 |:------------ |:----- |:-----------------------------------:|
-| KitKat       | `NCG` | [TowelRoot](https://towelroot.com/) |
-| KitKat       | `NE9` |  |
-| KitKat       | `NHA` |  |
-| KitKat       | `NI2` |  |
-| KitKat       | `NK2` |  |
-| Lollipop     | `OA8` |        |
+| KitKat       | `NCG` | [TowelRoot](#towelroot)             |
+| KitKat       | `NE9` | [KitKat Root](#kitkat-root-kltevzw) |
+| KitKat       | `NHA` | [KitKat Root](#kitkat-root-kltevzw) |
+| KitKat       | `NI2` | [KitKat Root](#kitkat-root-kltevzw) |
+| KitKat       | `NK2` | [KitKat Root](#kitkat-root-kltevzw) |
+| Lollipop     | `OA8` | Not Possible!                       |
 | Lollipop     | `OC2` |        |
 | Lollipop     | `OD5` |        |
 | Lollipop     | `OE2` |        |
@@ -32,8 +32,9 @@ Root can be achieved via different methods depending on what build you are on.
 | Marshmallow  | `QD1` |        |
 | Marshmallow  | `PL1` |        |
 
-### KitKat TowelRoot
+### TowelRoot
 kltevzw: Only works on `NCG`
+klte: Should work on many/all KitKat builds
 1. Visit the [TowelRoot](https://towelroot.com/) site
 1. Tap on the lambda to download the APK
 1. Install the APK and run.
