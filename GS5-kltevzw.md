@@ -1,6 +1,11 @@
 # Verizon Galaxy S5 (kltevzw)
 Note: While this is designed for the Verizon varient, many parts can also be used on the global varient (klte). The steps that can only be used on kltevzw will be marked as such.
 
+- [Root (kltevzw)](#root-kltevzw)
+- [Bootloader unlock (kltevzw)](#bootloader-unlock-kltevzw)
+- [Custom Recovery](#custom-recovery)
+- [ROMs](#roms)
+
 ## Root (kltevzw)
 Root can be achieved via different methods depending on what build you are on.
 
@@ -78,11 +83,15 @@ This is the recommended root method.
 1. Download [This app](https://androidfilehost.com/?fid=673368273298935345) and install
 1. Note the first 2 numbers in the eMMC box, under CID
 
-| eMMC CID | Root Method                    |
-|:-------- |:------------------------------:|
-| 15       | [Root and bootloader unlock]() |
-| 11       | [Root only]()                  |
-| Other    | Not possible!                  |
+| eMMC CID | Root Method                                                                |
+|:-------- |:--------------------------------------------------------------------------:|
+| 15       | [Root and bootloader unlock](#marshmallow-emmc-15-root-bootloader-kltevzw) |
+| 11       | [Root only](#marshmallow-emmc-11-root-kltevzw)                             |
+| Other    | Not possible!                                                              |
+
+### Marshmallow eMMC 15 Root Bootloader (kltevzw)
+
+### Marshmallow eMMC 11 Root (kltevzw)
 
 
 ## Bootloader unlock (kltevzw)
@@ -117,3 +126,17 @@ NOTE: IF YOU ARE ROOTED ON LOLLIPOP ON ONE OF THE FOLLOWING BUILDS, YOU ARE IN L
 1. After the phone turns off, boot the device to bootloader and verify that the status shows as "Developer"
 1. Flash TWRP using Odin
 
+## Custom Recovery
+If the bootloader has been unlocked on a kltevzw, or you are using a klte, TWRP can be installed using Odin.
+
+Follow the steps on the [TWRP documentation](https://twrp.me/samsung/samsunggalaxys5qualcomm.html) to install it
+
+## ROMs
+ROMs can be installed on this phone just like any other Android phone, granted the bootloader has been unlocked
+
+If you have a kltevzw with a Toshiba eMMC (11), only ROMs that specify a bootloader unlock is not required will work.
+
+If you have a kltevzw with an unlocked bootloader (Samsung eMMC (15) or developer edition), most Galaxy s5 ROMs can be installed.
+Note that some ROMs have a seperate version for the kltevzw. Be sure to check if the unified klte build will work on the kltevzw. One notable example is LineageOS. The builds were seperate until March 2017 when they were unified.
+
+Regardless, be sure the ROM is for the "klte", the "Qualcomm Galaxy s5", the "GT-900F", etc. Make sure it does NOT say "LTE+" or "Exynos"
