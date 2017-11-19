@@ -9,6 +9,22 @@ Note: While this is designed for the Verizon varient, many parts can also be use
 ## Root (kltevzw)
 Root can be achieved via different methods depending on what build you are on.
 
+The required information: "Android base" and "build" can be located in the device settings. 
+
+Go to "Settings -> About Phone" and check "Android Version"
+
+If you have `4.4.x` you have `KitKat`
+
+If you have `5.x.x` you have `Lollipop`
+
+If you have `6.x.x` you have `Marshmallow`
+
+This will give you the "Android Base" information.
+
+To get the "Build" information, go to "Settings -> About Phone" and check "Build". Get the last 3 characters of this long string. 
+
+Use that information to follow the table and identify the proper rooting method
+
 | Android base | Build | Method                                        |
 |:------------ |:----- |:---------------------------------------------:|
 | KitKat       | `NCG` | [TowelRoot](#towelroot)                       |
