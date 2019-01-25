@@ -107,7 +107,7 @@ This is the recommended root method.
 
 ### Marshmallow eMMC 15 Root Bootloader (kltevzw)
 
-Follow the steps outlined in (this PDF)[GS5_EMC15_Bootloader.pdf]
+Follow the steps outlined in [this PDF](GS5_EMC15_Bootloader.pdf)
 
 ### Marshmallow eMMC 11 Root (kltevzw)
 
