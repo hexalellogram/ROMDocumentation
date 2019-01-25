@@ -107,8 +107,11 @@ This is the recommended root method.
 
 ### Marshmallow eMMC 15 Root Bootloader (kltevzw)
 
+Follow the steps outlined in (this PDF)[GS5_EMC15_Bootloader.pdf]
+
 ### Marshmallow eMMC 11 Root (kltevzw)
 
+I do not have access to this device and thus don't know exactly how the process works. I'm sure the full guide can be found on XDA Developers.
 
 ## Bootloader unlock (kltevzw)
 
@@ -156,3 +159,12 @@ If you have a kltevzw with an unlocked bootloader (Samsung eMMC (15) or develope
 Note that some ROMs have a seperate version for the kltevzw. Be sure to check if the unified klte build will work on the kltevzw. One notable example is LineageOS. The builds were seperate until March 2017 when they were unified.
 
 Regardless, be sure the ROM is for the "klte", the "Qualcomm Galaxy s5", the "GT-900F", etc. Make sure it does NOT say "LTE+" or "Exynos"
+
+## Sources
+
+- [https://twrp.me/](https://twrp.me/)
+- [https://forum.xda-developers.com/verizon-galaxy-s5/development/rd-unlocking-galaxys-s5-bootloader-t3337909](https://forum.xda-developers.com/verizon-galaxy-s5/development/rd-unlocking-galaxys-s5-bootloader-t3337909)
+
+## Disclaimer
+
+Your warranty is now void (if it hasn't... it's a 5 year old phone!), and I do not take any responsiblity for your device or any direct or indirect consequence of you attempting to follow this guide!
