@@ -1,5 +1,13 @@
 # OnePlus 3 MultiROM Setup Documentation
 
+## A Note About This Document
+
+I have recently sold my OnePLus 3 due to battery bloating issues. It would have cost more to repair than it was worth to me. I never fully succeeded in installing MultiROM (my last attempt to do so resulted in a nearly bricked device that I had to restore using the MSM download tool).
+
+Proceed with caution if you decide to follow the below instructions.
+
+I will no longer be updating this document unless I get a new OnePlus 3.
+
 ## Proposed Configuration
 - Lineage OS 14.1 (base OS)
 - Lineage OS 15 
